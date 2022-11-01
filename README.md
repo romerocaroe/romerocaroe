@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! Mi nombre es Carolina Romero 👋
 
 - 🔭 Actualmente estoy trabajando como Team Leader & Fullstack Developer.
 - 🌱 Estoy haciendo el terciario para Analista de Sistemas en el Instituto Tecnológico de Educación Superior ORT Argentina.
