@@ -2,7 +2,6 @@
 
 - 🔭 Actualmente estoy trabajando como Team Leader & Fullstack Developer.
 - 🌱 Estoy haciendo el terciario para Analista de Sistemas en el Instituto Tecnológico de Educación Superior ORT Argentina.
-- 🤔 I’m looking for help with ...
 - ⚡ Fun fact: Mi Fun fact puede ser que tengo dos perritos que participan en mis reuniones con sus ronquidos ✨
 - 👯 Trabajé o trabajo con las siguientes tecnologías:
 * [![Vue][Vue.js]][Vue-url]
