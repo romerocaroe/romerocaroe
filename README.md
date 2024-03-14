@@ -1,14 +1,17 @@
 ### Hola! Mi nombre es Carolina Romero 👋
 
-- 🔭 Actualmente estoy trabajando como Team Leader & Fullstack Developer.
+- 🔭 Actualmente estoy trabajando como Desarrolladora Fullstack y Analista en Pan American Energy.
 - 🌱 Estoy haciendo el terciario para Analista de Sistemas en el Instituto Tecnológico de Educación Superior ORT Argentina.
-- ⚡ Fun fact: Mi Fun fact puede ser que tengo dos perritos que participan en mis reuniones con sus ronquidos ✨
+- ⚡ Fun fact: Mi Fun fact es que tengo dos perritos que me acompañan en mis reuniones ✨
 - 👯 Trabajé o trabajo con las siguientes tecnologías:
 * [![Vue][Vue.js]][Vue-url]
 * [![Vuetify][Vuetify.js]][Vuetify-url]
 * [![Graphql][Graphql]][Graphql-url]
 * [![Apollo Client][ApolloClient]][ApolloVue-url]
 * [![Apollo][Apollo]][Apollo-url]
+* [![Nodejs][Nodejs]][Nodejs-url]
+* [![Mongodb][Mongodb]][Mongodb-url]
+* [![SQLServer][SQLServer]][SQLServer-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -24,6 +27,9 @@
 [Apollo-url]: https://www.apollographql.com/
 [Firebase]: https://img.shields.io/badge/firebase-orange
 [Firebase-url]: https://firebase.google.com/
+[Nodejs-url]: https://nodejs.org/en
+[Mongodb-url]: https://www.mongodb.com/es
+[SQLServer-url]: https://www.microsoft.com/es-ar/sql-server/sql-server-downloads
 <!--
 **romerocaroe/romerocaroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
