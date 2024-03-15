@@ -3,7 +3,9 @@
 - 🔭 Actualmente estoy trabajando como Desarrolladora Fullstack y Analista en Pan American Energy.
 - 🌱 Estoy haciendo el terciario para Analista de Sistemas en el Instituto Tecnológico de Educación Superior ORT Argentina.
 - ⚡ Fun fact: Mi Fun fact es que tengo dos perritos que me acompañan en mis reuniones ✨
-- 👯 Trabajé o trabajo con las siguientes tecnologías:
+
+
+## Tecnologías
 * [![Vue][Vue.js]][Vue-url]
 * [![Vuetify][Vuetify.js]][Vuetify-url]
 * [![Graphql][Graphql]][Graphql-url]
