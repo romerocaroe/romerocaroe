@@ -2,7 +2,7 @@
 
 - 🔭 Actualmente estoy trabajando como Desarrolladora Fullstack y Analista en Pan American Energy.
 - 🌱 Estoy haciendo el terciario para Analista de Sistemas en el Instituto Tecnológico de Educación Superior ORT Argentina.
-- ⚡ Fun fact: Mi Fun fact es que tengo dos perritos que me acompañan en mis reuniones ✨
+- ⚡ Fun fact: Tengo dos perritos que me acompañan en mis reuniones ✨
 
 
 ## Tecnologías
@@ -29,8 +29,11 @@
 [Apollo-url]: https://www.apollographql.com/
 [Firebase]: https://img.shields.io/badge/firebase-orange
 [Firebase-url]: https://firebase.google.com/
+[Nodejs]: https://img.shields.io/badge/firebase-orange
 [Nodejs-url]: https://nodejs.org/en
+[Mongodb]: https://img.shields.io/badge/firebase-orange
 [Mongodb-url]: https://www.mongodb.com/es
+[SQLServer]: https://img.shields.io/badge/firebase-orange
 [SQLServer-url]: https://www.microsoft.com/es-ar/sql-server/sql-server-downloads
 <!--
 **romerocaroe/romerocaroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
