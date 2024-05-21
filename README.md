@@ -32,7 +32,7 @@
 [Firebase-url]: https://firebase.google.com/
 [Nodejs]: https://img.shields.io/badge/NodeJS-C11D40
 [Nodejs-url]: https://nodejs.org/en
-[Electron]: https://img.shields.io/badge/Electron-71E5E5
+[Electron]: https://img.shields.io/badge/Electron-E5F03A
 [Electron-url]: https://www.electronjs.org/
 [Mongodb]: https://img.shields.io/badge/MongoDB-7CB23B
 [Mongodb-url]: https://www.mongodb.com/es
