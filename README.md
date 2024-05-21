@@ -24,7 +24,7 @@
 [Vuetify-url]: https://vuetifyjs.com/en/
 [Graphql]: https://img.shields.io/badge/Graphql-ff69b4
 [Graphql-url]: https://graphql.org/
-[ApolloClient]: https://img.shields.io/badge/Vue%20Apollo-brightgreen
+[ApolloClient]: https://img.shields.io/badge/Vue%20Apollo-F0A83A
 [ApolloVue-url]: https://apollo.vuejs.org/
 [Apollo]: https://img.shields.io/badge/Apollo-blueviolet
 [Apollo-url]: https://www.apollographql.com/
