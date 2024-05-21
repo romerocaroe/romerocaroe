@@ -29,7 +29,7 @@
 [Apollo-url]: https://www.apollographql.com/
 [Firebase]: https://img.shields.io/badge/firebase-orange
 [Firebase-url]: https://firebase.google.com/
-[Nodejs]: https://img.shields.io/badge/firebase-orange
+[Nodejs]: https://img.shields.io/badge/node-C11D40
 [Nodejs-url]: https://nodejs.org/en
 [Mongodb]: https://img.shields.io/badge/firebase-orange
 [Mongodb-url]: https://www.mongodb.com/es
