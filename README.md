@@ -12,28 +12,31 @@
 * [![Apollo Client][ApolloClient]][ApolloVue-url]
 * [![Apollo][Apollo]][Apollo-url]
 * [![Nodejs][Nodejs]][Nodejs-url]
+* [![Electron][Electron]][Electron-url]
 * [![Mongodb][Mongodb]][Mongodb-url]
 * [![SQLServer][SQLServer]][SQLServer-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badgelogo=vuedotjs&logoColor=4FC08D
+[Vue.js]: https://img.shields.io/badge/Vue.js-3BB267
 [Vue-url]: https://vuejs.org/
-[Vuetify.js]: https://img.shields.io/badge/vuetify-blue
+[Vuetify.js]: https://img.shields.io/badge/Vuetify-blue
 [Vuetify-url]: https://vuetifyjs.com/en/
-[Graphql]: https://img.shields.io/badge/graphql-ff69b4
+[Graphql]: https://img.shields.io/badge/Graphql-ff69b4
 [Graphql-url]: https://graphql.org/
-[ApolloClient]: https://img.shields.io/badge/vue%20apollo-brightgreen
+[ApolloClient]: https://img.shields.io/badge/Vue%20Apollo-brightgreen
 [ApolloVue-url]: https://apollo.vuejs.org/
-[Apollo]: https://img.shields.io/badge/apollo-blueviolet
+[Apollo]: https://img.shields.io/badge/Apollo-blueviolet
 [Apollo-url]: https://www.apollographql.com/
-[Firebase]: https://img.shields.io/badge/firebase-orange
+[Firebase]: https://img.shields.io/badge/Firebase-orange
 [Firebase-url]: https://firebase.google.com/
-[Nodejs]: https://img.shields.io/badge/node-C11D40
+[Nodejs]: https://img.shields.io/badge/NodeJS-C11D40
 [Nodejs-url]: https://nodejs.org/en
-[Mongodb]: https://img.shields.io/badge/firebase-orange
+[Electron]: https://img.shields.io/badge/Electron-71E5E5
+[Electron-url]: https://www.electronjs.org/
+[Mongodb]: https://img.shields.io/badge/MongoDB-7CB23B
 [Mongodb-url]: https://www.mongodb.com/es
-[SQLServer]: https://img.shields.io/badge/firebase-orange
+[SQLServer]: https://img.shields.io/badge/SQLServer-3B7AB2
 [SQLServer-url]: https://www.microsoft.com/es-ar/sql-server/sql-server-downloads
 <!--
 **romerocaroe/romerocaroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
